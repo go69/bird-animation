@@ -13,7 +13,7 @@
 	 padding: 0.2rem;
 }
  .bird {
-	 background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/174479/bird-cells-new.svg);
+	 background-image: url(https://cdn.jsdelivr.net/gh/go69/bird-animation@main/bird-cells-new.svg);
 	 background-size: auto 100%;
 	 width: 88px;
 	 height: 125px;
